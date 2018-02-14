@@ -313,6 +313,11 @@ Carousel
     text-align: left;
     list-style-type: none;
   }
+  
+  dropdown {
+  background-color: #a8d376;
+  }
+  
   /*-------SHARE ICONS-------*/
   .follow-us-container {
     margin-top: 50px;
