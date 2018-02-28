@@ -3,7 +3,6 @@ from bson.objectid import ObjectId
 import os
 from flask import Flask, redirect, render_template, request, flash, jsonify, url_for
 # from flask_cors import CORS, cross_origin
-
 # MONGO_URI=mongodb://root:1234@ds263137.mlab.com:63137/cookbookdb python3 new_mongo.py
 
 HOST = os.getenv('IP', '0.0.0.0')
