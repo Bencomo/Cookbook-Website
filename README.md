@@ -1,3 +1,5 @@
+# Mexican Recipes
+
 Cookbook Milestone project created by Jonathan Bencomo for the Code Institute, Dublin 2018.
 
 ## Project guidelines
@@ -25,13 +27,13 @@ Cookbook Milestone project created by Jonathan Bencomo for the Code Institute, D
 * Write a README.md file for your project that explains what the project does and the need that it fulfills. It should also describe the functionality of the project, as well as the technologies used. If some of the work was based on other code, explain what was kept and how it was changed to fit your need. A project submitted without a README.md file will FAIL.
 * Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit.
 
-# Deployment instructions:
+## Deployment instructions:
 - Download the project files in your computer 
 - Connect to the database: user:<root> password:<1234>
     * export MONGO_URI=mongodb://root:1234@ds263137.mlab.com:63137/cookbookdb
     * python3 new_mongo.py
 
-# Sources:
+## Sources:
     * http://www.cookinglight.com/food/quick-healthy/quick-easy-mexican-recipes#cheesy-chicken-fajitas // for recipes
     * https://codepen.io/anon/pen/zRxyZo // to make the shareable popups
     
