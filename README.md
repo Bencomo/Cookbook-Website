@@ -2,6 +2,10 @@
 
 Cookbook Milestone project created by Jonathan Bencomo for the Code Institute, Dublin 2018.
 
+## Demo
+
+A demo version of this project can be found [here](https://cookbook-bencomo.herokuapp.com/).
+
 ## Project guidelines
 
 ## Create an online cookbook:
