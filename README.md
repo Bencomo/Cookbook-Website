@@ -40,4 +40,6 @@ A demo version of this project can be found [here](https://cookbook-bencomo.hero
 ## Sources:
     * http://www.cookinglight.com/food/quick-healthy/quick-easy-mexican-recipes#cheesy-chicken-fajitas // for recipes
     * https://codepen.io/anon/pen/zRxyZo // to make the shareable popups
+
+For any feedback or questions please email: development@benfont.com
     
